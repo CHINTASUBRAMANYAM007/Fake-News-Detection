@@ -1,0 +1,32 @@
+# Fake News Detection
+
+## Project Overview
+This project uses Natural Language Processing (NLP) and machine learning techniques to detect fake news from real news. The model is trained using the TF-IDF Vectorizer and Logistic Regression to classify news articles as real or fake.
+
+## Key Features
+- Data preprocessing (cleaning and text normalization).
+- Feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency).
+- Machine learning model Logistic Regression.
+- Model evaluation using classification metrics (accuracy, precision, recall, F1-score).
+
+## Technologies Used
+- Python Programming language.
+- Libraries 
+  - Pandas Data manipulation and analysis.
+  - NumPy Numerical computations.
+  - Scikit-learn Machine learning and model evaluation.
+  - SeabornMatplotlib Data visualization.
+
+## Dataset
+The dataset used in this project is the Fake News Detection Dataset from Kaggle. It contains news articles with labels indicating whether the news is real or fake.
+
+## Installation
+
+### Prerequisites
+You need to have Python installed along with the following dependencies
+
+### Installation Steps
+1. Clone the repository
+   ```bash
+   git clone httpsgithub.comyourusernameFake-News-Detection.git
+   cd Fake-News-Detection
